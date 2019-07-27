@@ -1,4 +1,4 @@
-# compilers
+# Compilers
 
 ## Part 1
 
